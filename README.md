@@ -9,8 +9,6 @@ I'm Graduating from Practicum by Yandex MERN online Bootcamp as a Data Scientist
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=benitolsantos alt=benitolsantos /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benitolsantos&label=Profile%20views&color=0e75b6&style=flat" alt="benitolsantos" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benitolsantos" alt="benitolsantos" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/benitolsantos" target="blank"><img src="https://img.shields.io/twitter/follow/benitolsantos?logo=twitter&style=for-the-badge" alt="benitolsantos" /></a> </p>
