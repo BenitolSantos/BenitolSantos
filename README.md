@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Benito Santos</h1>
+<h1 align="center">Hello 👋, I'm Benito Santos</h1>
 <h3 align="center">Seeking Full Time Data Science/Data Analyst Job</h3>
 <p align='left'>
 
