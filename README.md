@@ -3,7 +3,7 @@
 <h3 align="center">Seeking Full Time Data Science/Data Analyst Job</h3>
 <p align='left'>
 
-I'm Graduating from Practicum by Yandex MERN online Bootcamp as a Data Scientist. During my learning journey I helped other students with questions related to the course/sprints assignements and projects. The curricullum provides a wide range of projects based on the following Machine Learning, Model Training,  Python, SQL, Pandas, Matplotlib, Scikit-Learn, Nltk, Scipy, Catboost, Lightgbm, Seaborn, TensorFlow, and Neural Networks.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1WsmfI875kAhJaU2Bb7kk5_JlVSd7j_YU/view?usp=share_link ' target=_blank><u>here</u>.</a></p>
+I'm Graduating from Practicum by Yandex MERN online Bootcamp as a Data Scientist. During my learning journey I helped other students with questions related to the course/sprints assignements and projects. The curricullum provides a wide range of projects based on the following Machine Learning, Model Training,  Python, SQL, Pandas, Matplotlib, Scikit-Learn, Nltk, SciPy, CatBoost, LightGBM, Seaborn, TensorFlow, and Neural Networks.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1WsmfI875kAhJaU2Bb7kk5_JlVSd7j_YU/view?usp=share_link ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=benitolsantos alt=benitolsantos /> </p>
 
