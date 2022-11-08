@@ -13,7 +13,7 @@ I am graduating from Practicum by Yandex MERN online Bootcamp as a Data Scientis
 
 - 👨‍💻 All of my projects are available at: [https://github.com/BenitolSantos/Data_Science_Projects](https://github.com/BenitolSantos/Data_Science_Projects)
 
-- ⚡ Fun Fact: [**I won an award in 2018 from the Fortnite Competive Community for Best uide**](https://www.reddit.com/r/FortniteCompetitive/comments/9naygv/from_bot_to_tryhard_sweat_the_unofficial/)
+- ⚡ Fun Fact: [**I won an award in 2018 from the Fortnite Competive Community for Best Guide**](https://www.reddit.com/r/FortniteCompetitive/comments/9naygv/from_bot_to_tryhard_sweat_the_unofficial/)
 
 <h3 align="left">Connect with me:</h3>
 
