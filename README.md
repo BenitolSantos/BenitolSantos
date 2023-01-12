@@ -3,7 +3,7 @@
 <h3 align="center">Seeking Full Time Data Science/Data Analyst Job</h3>
 <p align='left'>
 
-I am graduating from Practicum by Yandex MERN online Bootcamp as a Data Scientist. During my learning journey, I helped other students with questions related to the course/sprints assignements and projects. The curriculum provides a wide range of projects based on the following concepts and librarys: Machine Learning, Model Training,  Python, SQL, Pandas, Matplotlib, Scikit-Learn, Nltk, SciPy, CatBoost, LightGBM, Seaborn, TensorFlow, and Neural Networks.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1WsmfI875kAhJaU2Bb7kk5_JlVSd7j_YU/view?usp=share_link ' target=_blank><u>here</u>.</a></p>
+I graduated from Practicum by Yandex MERN online Bootcamp as a Data Scientist. During my learning journey, I helped other students with questions related to the course/sprints assignements and projects. The curriculum provides a wide range of projects based on the following concepts and librarys: Machine Learning, Model Training,  Python, SQL, Pandas, Matplotlib, Scikit-Learn, Nltk, SciPy, CatBoost, LightGBM, Seaborn, TensorFlow, and Neural Networks.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1WsmfI875kAhJaU2Bb7kk5_JlVSd7j_YU/view?usp=share_link ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=benitolsantos alt=benitolsantos /> </p>
 
@@ -12,6 +12,7 @@ I am graduating from Practicum by Yandex MERN online Bootcamp as a Data Scientis
 <p align="left"> <a href="https://twitter.com/benitolsantos" target="blank"><img src="https://img.shields.io/twitter/follow/benitolsantos?logo=twitter&style=for-the-badge" alt="benitolsantos" /></a> </p>
 
 - 👨‍💻 All of my projects are available at: [https://github.com/BenitolSantos/Data_Science_Projects](https://github.com/BenitolSantos/Data_Science_Projects)
+- 💻 All of my tableau projects are available at: [https://public.tableau.com/app/profile/benito.santos](https://public.tableau.com/app/profile/benito.santos)
 
 - ⚡ Fun Fact: [**I won an award in 2018 from the Fortnite Competive Community for Best Guide**](https://www.reddit.com/r/FortniteCompetitive/comments/9naygv/from_bot_to_tryhard_sweat_the_unofficial/)
 
