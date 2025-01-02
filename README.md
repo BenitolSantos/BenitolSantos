@@ -3,7 +3,7 @@
 <h3 align="center">Seeking Full Time Data Science/Data Analyst Job</h3>
 <p align='left'>
 
-I graduated from Tripleten (Formerly Practicum by Yandex MERN online Bootcamp) as a Data Scientist. During my learning journey, I helped other students with questions related to the course/sprints assignements and projects. The curriculum provides a wide range of projects based on the following concepts and librarys: Machine Learning, Model Training,  Python, SQL, Pandas, Matplotlib, Scikit-Learn, Nltk, SciPy, CatBoost, LightGBM, Seaborn, TensorFlow, and Neural Networks.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1j7gcXZGEezMbqDkpjZYOf-5k5kuXmt-5/edit?usp=sharing&ouid=107783959563283499010&rtpof=true&sd=true' target=_blank><u>here</u>.</a></p>
+I graduated from Tripleten (Formerly Practicum by Yandex MERN online Bootcamp) as a Data Scientist. During my learning journey, I helped other students with questions related to the course/sprints assignements and projects. The curriculum provides a wide range of projects based on the following concepts and librarys: Machine Learning, Model Training,  Python, SQL, Pandas, Matplotlib, Scikit-Learn, Nltk, SciPy, CatBoost, LightGBM, Seaborn, TensorFlow, and Neural Networks.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1j7gcXZGEezMbqDkpjZYOf-5k5kuXmt-5/edit?usp=drive_link&ouid=107783959563283499010&rtpof=true&sd=true' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=benitolsantos alt=benitolsantos /> </p>
 
